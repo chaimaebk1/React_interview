@@ -3,4 +3,4 @@ Dans le cadre de ce projet, j'ai développé une application web permettant de g
 ![alt text](image.png)
 
 
-Vous pouvez exécuter le projet en faisant npm install puis npm start.
+Vous pouvez exécuter le projet en faisant `npm install` puis `npm start`.
